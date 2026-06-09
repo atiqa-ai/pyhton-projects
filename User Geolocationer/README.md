@@ -4,7 +4,7 @@
 A Python-based geolocation tracking system that retrieves and displays the geographical location of a user based on their IP address using external geolocation APIs.
 
 
-###📌 Features
+### Features
 -  Fetch user location using IP address
 - 🌐 Display country, region, city, and coordinates
 -  Real-time geolocation retrieval
