@@ -1,7 +1,8 @@
 
 ## 1. 🏦 Bank Record Management System
 
-A Python-based system designed to manage basic banking operations including account creation, deposits, withdrawals, and transaction tracking using file-based storage.
+
+ A Python-based system designed to manage basic banking operations including account creation, deposits, withdrawals, and transaction tracking using file-based storage.
 
 ⚙️ Features
 - Create new bank accounts
