@@ -32,7 +32,7 @@ This program listens voice commands, speaks back, and performs real-time actions
 
 🔹 webbrowser → For automating web actions
 
-💻 Example Commands
+### 💻 Example Commands
 
 🗨️ “Open YouTube”
 
