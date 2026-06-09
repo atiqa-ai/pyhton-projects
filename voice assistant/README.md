@@ -17,12 +17,10 @@ This program listens voice commands, speaks back, and performs real-time actions
 ⏰ Tells the Current Time — just say “what’s the time”
 
 👋 Greets You — based on time (Morning, Afternoon, or Evening)
-
-   opens chatgpt (for any research)
     
 ❌ Exit Command — say “quit” to close the assistant
 
-🧠 Technologies Used
+###  Technologies Used
 
 🔹 pyttsx3 → Text-to-speech engine
 
