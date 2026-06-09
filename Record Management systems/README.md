@@ -34,7 +34,7 @@ A Python program for tracking multiple students, storing their subjects, and cal
 
 A Python-based system designed to manage and organize student personal records, including basic identity and academic-related information.
 
-## 📌 Features
+⚙️Features
 - Add new student records (Name, Date of Birth, Address, etc.)
 - View stored student details
 - Update existing records
