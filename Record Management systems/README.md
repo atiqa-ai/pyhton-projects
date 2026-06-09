@@ -32,8 +32,7 @@ A Python program for tracking multiple students, storing their subjects, and cal
   
 ## 3. 🎓 Student Record Management System
 
-A Python-based system designed to manage and organize student personal records, including basic identity and academic-related information. 
----
+A Python-based system designed to manage and organize student personal records, including basic identity and academic-related information.
 
 ## 📌 Features
 - Add new student records (Name, Date of Birth, Address, etc.)
