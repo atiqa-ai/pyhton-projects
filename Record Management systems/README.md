@@ -40,4 +40,3 @@ A Python-based system designed to manage and organize student personal records, 
 - Update existing records
 - Delete student records
 
----
